@@ -10,6 +10,7 @@ dependencies {
     api(projects.paper.base)
     shadowOnly(projects.paper.v766)
     shadowOnly(projects.paper.v768)
+    shadowOnly(projects.paper.v774)
 }
 
 tasks {
